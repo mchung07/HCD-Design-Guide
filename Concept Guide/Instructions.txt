@@ -1,0 +1,117 @@
+ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
+
+PUBLICATION NAME: HCD-Guide-Interagency-v2.indd
+
+PACKAGE DATE: 8/8/18 4:49 PM
+Creation Date: 8/8/18
+Modification Date: 8/8/18
+
+CONTACT INFORMATION
+
+Company Name: 
+Contact: 
+Address: 
+
+
+
+
+
+Phone: 
+Fax: 
+Email: 
+
+SPECIAL INSTRUCTIONS AND OTHER NOTES
+
+
+
+
+
+
+External Plug-ins 0
+Non Opaque Objects :None
+
+FONTS
+16 Fonts Used; 0 Missing, 2 Embedded, 0 Incomplete, 0 Protected
+
+Fonts Packaged
+- Name: CooperHewitt-Bold; Type: OpenType Type 1, Status: OK
+- Name: CooperHewitt-BoldItalic; Type: OpenType Type 1, Status: OK
+- Name: CooperHewitt-Book; Type: Type 1, Status: Embedded
+- Name: CooperHewitt-Book; Type: OpenType Type 1, Status: OK
+- Name: CooperHewitt-BookItalic; Type: OpenType Type 1, Status: OK
+- Name: CooperHewitt-Medium; Type: OpenType Type 1, Status: OK
+- Name: CooperHewitt-Semibold; Type: OpenType Type 1, Status: OK
+- Name: CooperHewitt-SemiboldItalic; Type: OpenType Type 1, Status: OK
+- Name: Merriweather; Type: TrueType, Status: OK
+- Name: Merriweather-Bold; Type: TrueType, Status: OK
+- Name: Merriweather-Heavy; Type: TrueType, Status: OK
+- Name: Merriweather-Italic; Type: TrueType, Status: OK
+- Name: TimesNewRomanPS-BoldMT; Type: OpenType TrueType, Status: OK
+- Name: TimesNewRomanPSMT; Type: ???, Status: Embedded
+- Name: TimesNewRomanPSMT; Type: OpenType TrueType, Status: OK
+- Name: Wingdings-Regular; Type: OpenType TrueType, Status: OK
+
+
+COLORS AND INKS
+4 Process Inks; 4 Spot Inks, 1 Duplicate Spot Colors
+
+- Name and Type: Process Cyan; Angle: 0.000; Lines/Inch: 0.000
+- Name and Type: Process Magenta; Angle: 0.000; Lines/Inch: 0.000
+- Name and Type: Process Yellow; Angle: 0.000; Lines/Inch: 0.000
+- Name and Type: Process Black; Angle: 0.000; Lines/Inch: 0.000
+- Name and Type: VA-Blue-02; Angle: 0.000; Lines/Inch: 0.000
+- Name and Type: VE-Gold-01; Angle: 0.000; Lines/Inch: 0.000
+- Name and Type: VE-blue-01; Angle: 0.000; Lines/Inch: 0.000
+- Name and Type: VE-blue-02; Angle: 0.000; Lines/Inch: 0.000
+
+
+LINKS AND IMAGES
+(Missing & Embedded Links Only)
+Links and Images: 19 Links Found; 0 Modified, 0 Missing, 0 Inaccessible
+Images: 0 Embedded, 0 use RGB color space
+
+
+PRINT SETTINGS
+PPD: N/A, (HP Deskjet F300 series)
+Printing To: Printer
+Number of Copies: 1
+Reader Spreads: No
+Even/Odd Pages: Both
+Pages: All
+Proof: No
+Tiling: None
+Scale: 100%, 100%
+Page Position: Upper Left
+Print Layers: Visible & Printable Layers
+Printer's Marks: None
+Bleed: 0p0, 0p0, 0p0, 0p0
+Color: Composite RGB
+Trapping Mode: None
+Send Image Data: Optimized Subsampling
+OPI/DCS Image Replacement: No
+Page Size: Letter
+Paper Dimensions: 51p0 x 66p0
+Orientation: Portrait
+Negative: No
+Flip Mode: Off
+
+
+FILE PACKAGE LIST
+
+1. HCD-Guide-Interagency-v2.indd; type: Adobe InDesign publication; size: 5468K
+2. HCD-Guide-Interagency-v2.idml; type: InDesign Markup Document; size: 591K
+3. HCD-Guide-Interagency-v2.pdf; type: Adobe Acrobat Document; size: 1231K
+4. CooperHewitt-Bold.otf; type: Font file; size: 87K
+5. CooperHewitt-BoldItalic.otf; type: Font file; size: 89K
+6. CooperHewitt-Book.otf; type: Font file; size: 87K
+7. CooperHewitt-BookItalic.otf; type: Font file; size: 90K
+8. CooperHewitt-Medium.otf; type: Font file; size: 87K
+9. CooperHewitt-Semibold.otf; type: Font file; size: 88K
+10. CooperHewitt-SemiboldItalic.otf; type: Font file; size: 90K
+11. Merriweather-Regular.ttf; type: Font file; size: 45K
+12. Merriweather-Bold.ttf; type: Font file; size: 45K
+13. Merriweather-Black.ttf; type: Font file; size: 45K
+14. Merriweather-Italic.ttf; type: Font file; size: 51K
+15. Times New Roman Bold.ttf; type: Font file; size: 822K
+16. Times New Roman.ttf; type: Font file; size: 814K
+17. Wingdings.ttf; type: Font file; size: 84K

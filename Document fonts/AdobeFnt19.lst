@@ -1,0 +1,350 @@
+%!Adobe-FontList 1.19
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Merriweather-Bold
+FamilyName:Merriweather
+StyleName:Bold
+MenuName:Merriweather
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Merriweather Bold
+WritingScript:Roman
+OutlineFileName:\Merriweather-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:46796
+FileModTime:1441389230
+NameArray:0,Mac,18,Merriweather Bold
+NameArray:0,Mac,4,Merriweather Bold
+NameArray:0,Win,1,Merriweather
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Merriweather
+FamilyName:Merriweather
+StyleName:Regular
+MenuName:Merriweather
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Merriweather
+WritingScript:Roman
+OutlineFileName:\Merriweather-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:46576
+FileModTime:1441389230
+NameArray:0,Mac,18,Merriweather
+NameArray:0,Mac,4,Merriweather
+NameArray:0,Win,1,Merriweather
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:CooperHewitt-SemiboldItalic
+FamilyName:Cooper Hewitt
+StyleName:Semibold Italic
+MenuName:Cooper Hewitt
+StyleBits:0
+WeightClass:710
+WidthClass:5
+AngleClass:0
+FullName:CooperHewitt-SemiboldItalic
+WritingScript:Roman
+OutlineFileName:\CooperHewitt-SemiboldItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:92384
+FileModTime:1402072200
+NameArray:0,Mac,4,CooperHewitt-SemiboldItalic
+NameArray:0,Win,1,Cooper Hewitt
+NameArray:0,Win,16,Cooper Hewitt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:CooperHewitt-Bold
+FamilyName:Cooper Hewitt
+StyleName:Bold
+MenuName:Cooper Hewitt
+StyleBits:0
+WeightClass:711
+WidthClass:5
+AngleClass:0
+FullName:CooperHewitt-Bold
+WritingScript:Roman
+OutlineFileName:\CooperHewitt-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:89976
+FileModTime:1402072192
+NameArray:0,Mac,4,CooperHewitt-Bold
+NameArray:0,Win,1,Cooper Hewitt
+NameArray:0,Win,16,Cooper Hewitt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:CooperHewitt-BoldItalic
+FamilyName:Cooper Hewitt
+StyleName:Bold Italic
+MenuName:Cooper Hewitt
+StyleBits:0
+WeightClass:712
+WidthClass:5
+AngleClass:0
+FullName:CooperHewitt-BoldItalic
+WritingScript:Roman
+OutlineFileName:\CooperHewitt-BoldItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:92092
+FileModTime:1402072192
+NameArray:0,Mac,4,CooperHewitt-BoldItalic
+NameArray:0,Win,1,Cooper Hewitt
+NameArray:0,Win,16,Cooper Hewitt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:CooperHewitt-Book
+FamilyName:Cooper Hewitt
+StyleName:Book
+MenuName:Cooper Hewitt
+StyleBits:0
+WeightClass:705
+WidthClass:5
+AngleClass:0
+FullName:CooperHewitt-Book
+WritingScript:Roman
+OutlineFileName:\CooperHewitt-Book.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:89696
+FileModTime:1402072194
+NameArray:0,Mac,4,CooperHewitt-Book
+NameArray:0,Win,1,Cooper Hewitt
+NameArray:0,Win,16,Cooper Hewitt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TimesNewRomanPSMT
+FamilyName:Times New Roman
+StyleName:Regular
+MenuName:Times New Roman
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Times New Roman
+WritingScript:Roman
+OutlineFileName:\Times New Roman.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:834452
+FileModTime:1507857543
+NameArray:0,Mac,4,Times New Roman
+NameArray:0,Win,1,Times New Roman
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:CooperHewitt-BookItalic
+FamilyName:Cooper Hewitt
+StyleName:Book Italic
+MenuName:Cooper Hewitt
+StyleBits:0
+WeightClass:706
+WidthClass:5
+AngleClass:0
+FullName:CooperHewitt-BookItalic
+WritingScript:Roman
+OutlineFileName:\CooperHewitt-BookItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:92352
+FileModTime:1402072194
+NameArray:0,Mac,4,CooperHewitt-BookItalic
+NameArray:0,Win,1,Cooper Hewitt
+NameArray:0,Win,16,Cooper Hewitt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:CooperHewitt-Medium
+FamilyName:Cooper Hewitt
+StyleName:Medium
+MenuName:Cooper Hewitt
+StyleBits:0
+WeightClass:707
+WidthClass:5
+AngleClass:0
+FullName:CooperHewitt-Medium
+WritingScript:Roman
+OutlineFileName:\CooperHewitt-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:89836
+FileModTime:1402072198
+NameArray:0,Mac,4,CooperHewitt-Medium
+NameArray:0,Win,1,Cooper Hewitt
+NameArray:0,Win,16,Cooper Hewitt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Wingdings-Regular
+FamilyName:Wingdings
+StyleName:Regular
+MenuName:Wingdings
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Wingdings
+WritingScript:Roman
+OutlineFileName:\Wingdings.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:86384
+FileModTime:1507857543
+NameArray:0,Mac,4,Wingdings
+NameArray:0,Win,1,Wingdings
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TimesNewRomanPS-BoldMT
+FamilyName:Times New Roman
+StyleName:Bold
+MenuName:Times New Roman
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Times New Roman Bold
+WritingScript:Roman
+OutlineFileName:\Times New Roman Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:842168
+FileModTime:1507857543
+NameArray:0,Mac,4,Times New Roman Bold
+NameArray:0,Win,1,Times New Roman
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Merriweather-Italic
+FamilyName:Merriweather
+StyleName:Italic
+MenuName:Merriweather
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Merriweather Italic
+WritingScript:Roman
+OutlineFileName:\Merriweather-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:53140
+FileModTime:1441389230
+NameArray:0,Mac,18,Merriweather Italic
+NameArray:0,Mac,4,Merriweather Italic
+NameArray:0,Win,1,Merriweather
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Merriweather-Heavy
+FamilyName:Merriweather
+StyleName:Heavy
+MenuName:Merriweather
+StyleBits:2
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Merriweather Heavy
+WritingScript:Roman
+OutlineFileName:\Merriweather-Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:46816
+FileModTime:1441389230
+NameArray:0,Mac,18,Merriweather Heavy
+NameArray:0,Mac,4,Merriweather Heavy
+NameArray:0,Win,1,Merriweather
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:CooperHewitt-Semibold
+FamilyName:Cooper Hewitt
+StyleName:Semibold
+MenuName:Cooper Hewitt
+StyleBits:0
+WeightClass:709
+WidthClass:5
+AngleClass:0
+FullName:CooperHewitt-Semibold
+WritingScript:Roman
+OutlineFileName:\CooperHewitt-Semibold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:90296
+FileModTime:1402072200
+NameArray:0,Mac,4,CooperHewitt-Semibold
+NameArray:0,Win,1,Cooper Hewitt
+NameArray:0,Win,16,Cooper Hewitt
+%EndFont
+
