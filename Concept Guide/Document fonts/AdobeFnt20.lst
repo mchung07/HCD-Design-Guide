@@ -19,7 +19,7 @@ DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:46796
-FileModTime:463096430
+FileModTime:561504998
 NameArray:0,Mac,18,Merriweather Bold
 NameArray:0,Mac,4,Merriweather Bold
 NameArray:0,Win,1,Merriweather
@@ -43,7 +43,7 @@ DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:46576
-FileModTime:463096430
+FileModTime:561504998
 NameArray:0,Mac,18,Merriweather
 NameArray:0,Mac,4,Merriweather
 NameArray:0,Win,1,Merriweather
@@ -69,18 +69,10 @@ isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:92384
-FileModTime:423779400
+FileModTime:561504998
 NameArray:0,Mac,4,CooperHewitt-SemiboldItalic
 NameArray:0,Win,1,Cooper Hewitt
 NameArray:0,Win,16,Cooper Hewitt
-%EndFont
-
-%BeginFont
-Handler:DirectoryHandler
-FontType:Invalid
-OutlineFileName:/Users/anamonroe/Documents/GitHub/HCD-Design-Guide/Concept Guide/Document fonts/.DS_Store
-FileLength:6148
-FileModTime:561863043
 %EndFont
 
 %BeginFont
@@ -103,7 +95,7 @@ isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:89976
-FileModTime:423779392
+FileModTime:561504998
 NameArray:0,Mac,4,CooperHewitt-Bold
 NameArray:0,Win,1,Cooper Hewitt
 NameArray:0,Win,16,Cooper Hewitt
@@ -129,7 +121,7 @@ isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:92092
-FileModTime:423779392
+FileModTime:561504998
 NameArray:0,Mac,4,CooperHewitt-BoldItalic
 NameArray:0,Win,1,Cooper Hewitt
 NameArray:0,Win,16,Cooper Hewitt
@@ -155,7 +147,7 @@ isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:89696
-FileModTime:423779394
+FileModTime:561504998
 NameArray:0,Mac,4,CooperHewitt-Book
 NameArray:0,Win,1,Cooper Hewitt
 NameArray:0,Win,16,Cooper Hewitt
@@ -181,7 +173,7 @@ isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:92352
-FileModTime:423779394
+FileModTime:561504998
 NameArray:0,Mac,4,CooperHewitt-BookItalic
 NameArray:0,Win,1,Cooper Hewitt
 NameArray:0,Win,16,Cooper Hewitt
@@ -207,7 +199,7 @@ isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:89836
-FileModTime:423779398
+FileModTime:561504998
 NameArray:0,Mac,4,CooperHewitt-Medium
 NameArray:0,Win,1,Cooper Hewitt
 NameArray:0,Win,16,Cooper Hewitt
@@ -231,7 +223,7 @@ DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:53140
-FileModTime:463096430
+FileModTime:561504998
 NameArray:0,Mac,18,Merriweather Italic
 NameArray:0,Mac,4,Merriweather Italic
 NameArray:0,Win,1,Merriweather
@@ -255,7 +247,7 @@ DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:46816
-FileModTime:463096430
+FileModTime:561504998
 NameArray:0,Mac,18,Merriweather Heavy
 NameArray:0,Mac,4,Merriweather Heavy
 NameArray:0,Win,1,Merriweather
@@ -281,7 +273,7 @@ isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:90296
-FileModTime:423779400
+FileModTime:561504998
 NameArray:0,Mac,4,CooperHewitt-Semibold
 NameArray:0,Win,1,Cooper Hewitt
 NameArray:0,Win,16,Cooper Hewitt
