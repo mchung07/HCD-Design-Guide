@@ -3,22 +3,11 @@ This is the in-process HCD Design Guides git site.
 
 Two Guides will be generated via this git: the HCD Design Concept Guide and the HCD Design Operations Guide. 
 
-# Version control:
-
-Versioning is based on the semantic versioning process. Versions should always read Title_v.X.Y.Z
-
-X = Massive, Systematic or Illustration Change
-
-Y = Chapter or Page Order Change
-
-Z = Edits on Individual Pages Change
-
-
 # Content Generation:
 
-Please place all writing in the "written content" file.
+Please place all writing in the indesign file.
 
-Please place all drawings and photos in the "image content" file. 
+Please place all links that will be in the indesign in the drawings and photos in the "links" file. All other assets, including in process or previous versions, please use the "assets" file. 
 
 Please submit new content via Pull Request. Do not push to Master. 
 
