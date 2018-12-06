@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Merriweather:300,400,700|Source+Sans+Pro:400,400i,700');
 
 
-$sans: 'Source Sans Pro', sans-serif;
+$sans: 'Public-sans', sans-serif;
 $serif: 'Merriweather', Georgia, serif;
 
 $transition: all .2s ease;
@@ -67,6 +67,15 @@ ul {
   }
 }
 
+.blank-line {
+  list-style: disc;
+  &:not(.checklist) {
+    font-style: normal;
+    @media screen {
+    }
+  }
+}
+
 .inset {
   list-style: disc;
   &:not(.checklist) {
@@ -76,6 +85,18 @@ ul {
     }
     li {
       margin: .25em 0;
+    }
+  }
+}
+
+.normal {list-style: disc;
+&:not(.checklist) {
+  font-style: normal;
+  color: black;
+  @media screen {
+  }
+  li {
+    margin: .25em 0;
     }
   }
 }
@@ -200,6 +221,39 @@ $numbered-section-size: 1.5em;
   }
 }
 
+.checklist {
+  list-style: none;
+  li {
+    position: relative;
+    margin: 1em 0;
+  }
+  input[type='checkbox'] {
+    position: absolute;
+    left: -2em;
+    top: .35em;
+  }
+  @media print {
+    input[type='checkbox'] {
+      -webkit-appearance: none;
+      -moz-appearance: none;
+      -ms-appearance: none;
+      appearance: none;
+      border: 1pt solid #000;
+      background: none;
+      width: 1.2em;
+      height: 1.2em;
+      margin: -.2em .2em .2em -.2em;
+      background-size: contain;
+      &:checked {
+        background-image: url(/images/check.svg);
+      }
+    }
+    > li {
+      margin-left: 3em;
+    }
+  }
+}
+
 ////////////////////////////////////////////
 
 nav {
@@ -283,31 +337,13 @@ nav {
 
 ////////////////////////////////////////////
 
-/* Grid styles -------------------------------------------------*/
-
-main {
-      margin: 4rem;
-      margin-top: 4rem;
-      margin-right: 4rem;
-      margin-bottom: 4rem;
-      margin-left: 4rem;
-    display: grid;
-    grid-template-columns: 100px 1fr 1fr minmax(40ch, 65ch) 1fr;
-    grid-template-rows: -webkit-min-content 4rem 200rem auto;
-    grid-template-rows: min-content 4rem 200rem auto;
-    grid-gap: 1rem;
-      row-gap: 1rem;
-      column-gap: 1rem;
-}
-
 article {
-  position: relative;
-  /*page-break-after: always;*/
+  page-break-after: always;
   overflow: hidden;
-  /*min-height: calc(100vh - 3.5rem);*/
+  min-height: calc(100vh - 3.5rem);
   @media (min-width: $break) {
     box-sizing: border-box;
-    border-top: .5rem solid #fff;
+    border-top: 3.5rem solid #fff;
   }
   &:not(.skip) {
     counter-increment: section;
@@ -316,53 +352,6 @@ article {
     display: block;
   }
 }
-
-.image-wall-to-wall {
-  grid-column: 1 / 5;
-  object-fit: contain;
-}
-
-
-.image-columns {
-  grid-column: 2;
-  object-fit: contain;
-}
-
-.inset-left {
-  grid-column: 3 / 4;
-  width: 50%;
-  float: left;
-  margin: 1em;
-  shape-outside: url('images/bubbles-discovery-01.svg');
-  shape-margin: 0.8em;
-  shape-image-threshold: 0.5;
-}
-
-.inset-right {
-  grid-column: 2 / 3;
-  width: 50%;
-  float: right;
-  margin: 1em;
-  shape-outside: url('images/bubbles-discovery-01.svg');
-  shape-margin: 0.8em;
-  shape-image-threshold: 0.5;
-}
-
-/*
-.caption {
-  page-break-before: avoid;
-  font-family: $sans;
-  padding: 0 0 .5rem;
-  margin: 0;
-  line-height: 1.5;
-  font-style: italic;
-  font-size: 80%;
-  @media print {
-    font-size: 7pt;
-    line-height: 1;
-  }
-}
-*/
 
 header {
   background-color: $primary-color;
@@ -391,15 +380,10 @@ header {
   }
 }
 
-.article-body {
-    grid-column: 4 / 6;
-}
-
 section {
   max-width: $max-width;
   margin: 0 auto;
   padding: 0 5vw 5vw;
-  grid-column: 1 / 6;
   @media print {
     margin: 0;
     padding: 0 50pt;
@@ -415,13 +399,12 @@ h1, h2, h3, h4, h6 {
 }
 
 h1 {
-      grid-row: 1;
-      grid-row-start: 1;
-      grid-row-end: auto;
-      grid-column: 3 / 6;
-      margin: 0;
-      font-size: 3.6rem;
-      line-height: 1.1;
+  font-weight: 300;
+  font-size: calc(16px + 2vw);
+  margin: .2em 0;
+  strong {
+    font-weight: 700;
+  }
   @media print {
     font-size: 28pt;
   }
@@ -476,7 +459,19 @@ svg {
     display: none;
   }
 }
+.bubble_left {
+  width: 35%;
+  float: left;
+  margin: 1em;
+  shape-outside: ellipse();
+}
 
+.bubble_right {
+  width: 35%;
+  float: right;
+  margin: 1em;
+  shape-outside: ellipse();
+}
 ////////////////////////////////////////////
 
 @page {
