@@ -211,7 +211,7 @@ $z-index-overlay: 400;
 
   .usa-logo {
     @include at-media($theme-navigation-width) {
-      font-size: font-size($theme-header-font-family, 'xl');
+      font-size: font-size($theme-header-font-family, 'sm');
       margin: units(4) 0 units(3);
       max-width: 50%;
     }
