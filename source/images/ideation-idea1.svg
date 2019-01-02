@@ -1,1 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 235.42 225.69"><defs><style>.cls-1{isolation:isolate;}.cls-2,.cls-5{fill:#c8e3ed;}.cls-2{stroke:#1b8ece;}.cls-2,.cls-3{stroke-miterlimit:10;}.cls-2,.cls-3,.cls-4{mix-blend-mode:multiply;}.cls-3{fill:#c8e2ec;stroke:#178ece;}.cls-6{fill:#1b8ece;}.cls-7{font-size:10px;fill:#231f20;font-family:CooperHewitt-Medium, Cooper Hewitt;}.cls-8{letter-spacing:0.1em;}.cls-9{letter-spacing:0.11em;}.cls-10{letter-spacing:0.13em;}.cls-11{letter-spacing:0.1em;}.cls-12{letter-spacing:0.1em;}</style></defs><title>ideation-idea1</title><g class="cls-1"><g id="_1" data-name="1"><polygon class="cls-2" points="23.8 182.87 97.84 48.79 132.92 37.66 178.91 64.61 129.93 154.04 23.8 182.87"/><polygon class="cls-3" points="22.04 147.62 39.17 75.87 216.17 114.18 128.63 171.27 22.04 147.62"/><polygon class="cls-2" points="126.51 148.37 58.35 119.23 39.19 71.44 68.49 2.9 140.1 33.51 156.37 81.62 126.51 148.37"/><g class="cls-4"><polygon class="cls-5" points="113.08 46.95 150.52 8.81 224.12 80.77 116.65 192.88 113.08 46.95"/><path class="cls-6" d="M150.53,9.52l72.89,71.26L117.12,191.67,113.58,47.15l37-37.63m0-1.41-.7.71L112.87,46.45l-.3.3v.42l3.54,144.52.06,2.4,1.66-1.73L224.14,81.48l.68-.72-.7-.69L151.23,8.8l-.71-.69Z"/></g><text class="cls-7" transform="translate(97.79 214.1)"><tspan class="cls-8">I</tspan><tspan class="cls-9" x="3.52" y="0">D</tspan><tspan class="cls-10" x="11.06" y="0">E</tspan><tspan class="cls-11" x="17.89" y="0">A</tspan><tspan class="cls-12" x="25.1" y="0"> </tspan><tspan x="28.09" y="0">1</tspan></text></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 235.4 225.7" style="enable-background:new 0 0 235.4 225.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#C8E3ED;stroke:#1B8ECE;stroke-miterlimit:10;}
+	.st1{fill:#C8E2EC;stroke:#178ECE;stroke-miterlimit:10;}
+	.st2{fill:#C8E3ED;}
+	.st3{fill:#1B8ECE;}
+	.st4{fill:none;}
+	.st5{font-family:'CooperHewitt-Medium';}
+	.st6{font-size:16px;}
+	.st7{letter-spacing:1;}
+</style>
+<title>ideation-idea1</title>
+<g>
+	<g id="_1">
+		<polygon class="st0" points="23.8,182.9 97.8,48.8 132.9,37.7 178.9,64.6 129.9,154 		"/>
+		<polygon class="st1" points="22,147.6 39.2,75.9 216.2,114.2 128.6,171.3 		"/>
+		<polygon class="st0" points="126.5,148.4 58.3,119.2 39.2,71.4 68.5,2.9 140.1,33.5 156.4,81.6 		"/>
+		<g>
+			<polygon class="st2" points="113.1,47 150.5,8.8 224.1,80.8 116.7,192.9 			"/>
+			<path class="st3" d="M150.5,9.5l72.9,71.3L117.1,191.7l-3.5-144.5L150.5,9.5 M150.6,8.1l-0.7,0.7l-37,37.6l-0.3,0.3v0.4
+				l3.5,144.5l0.1,2.4l1.7-1.7L224.1,81.5l0.7-0.7l-0.7-0.7L151.2,8.8L150.6,8.1L150.6,8.1z"/>
+		</g>
+		<rect x="91.2" y="211.3" class="st4" width="65.1" height="26.8"/>
+		<text transform="matrix(1 0 0 1 91.2323 224.0797)" class="st5 st6 st7">IDEA 1</text>
+	</g>
+</g>
+</svg>
