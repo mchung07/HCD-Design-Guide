@@ -1,23 +1,19 @@
-h1 {
-  font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
-  font-weight: 700;
-  line-height: 1.3;
-  margin-bottom: .5rem;
-  margin-top: 1.5rem;
-  font-size: 4.4rem;
-
-}
 h2 {
   color: #0071bc;
 }
 
 h3 {
   color: #0071bc;
-    font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, "Roboto", sans-serif;
+  font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, "Roboto", sans-serif;
 }
 
 h4 {
   color: #0071bc;
+}
+
+.guide-section__title {
+  font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, "Roboto", sans-serif;
+  color: #212121;
 }
 
 .guide-references__title {
@@ -30,22 +26,41 @@ h4 {
   color: #212121;
 }
 
-.guide-gray-box {
-    padding: 0 1.5rem;
-    margin-bottom: 1.5rem;
-    padding-top: 1.5rem;
-    padding-bottom: 1.5rem;
-    background: #f1f1f1;
-  }
+.guide-footnotes {
+  font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, "Roboto", sans-serif;
+  font-size: 14px;
+}
 
-  .guide-blue-box {
-      padding: 0 1.5rem;
-      margin-bottom: 4.5rem;
-      padding-bottom: 1.5rem;
-      background: #e1f3f8;
-    }
+.guide-gray-box {
+  padding: 0 1.5rem;
+  margin-bottom: 1.5rem;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  background: #f1f1f1;
+}
+
+.guide-blue-box {
+  padding: 0 1.5rem;
+  margin-top: 0;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  background: #e1f3f8;
+}
+
+.guide-blue-box img {
+  margin-right: 1.5rem;
+}
 
 div.guide-border-top {
-    border-top: 3px solid #0071bc;
-    margin-top: 30px;
+  border-top: 2px solid #d6d7d9;
+  margin-top: 4.5rem;
+  margin-bottom: 4.5rem;
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.guide-footer {}

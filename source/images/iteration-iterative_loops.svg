@@ -1,1 +1,102 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1326 735"><defs><style>.cls-1,.cls-10,.cls-11{fill:none;}.cls-2{font-size:36px;font-family:CooperHewitt-Medium, Cooper Hewitt;}.cls-3{clip-path:url(#clip-path);}.cls-4{fill:#00c2e5;}.cls-5{fill:#f26624;}.cls-6{fill:#0091cf;}.cls-7{fill:#0d8742;}.cls-8{fill:#00663b;}.cls-9{clip-path:url(#clip-path-2);}.cls-10{stroke:#1471b8;stroke-width:2px;}.cls-11{stroke:#faa61c;stroke-linecap:round;stroke-miterlimit:10;stroke-width:5px;}</style><clipPath id="clip-path"><rect class="cls-1" x="103" y="65.64" width="1134" height="530.43"/></clipPath><clipPath id="clip-path-2"><rect class="cls-1" x="7" y="7.52" width="1308" height="717.48"/></clipPath></defs><title>iteration-iterative_loops</title><g id="Layer_2" data-name="Layer 2"><text class="cls-2" transform="matrix(0.84, -0.54, 0.54, 0.84, 201.16, 97.67)">I</text><text class="cls-2" transform="translate(208.24 92.89) rotate(-29.36)">T</text><text class="cls-2" transform="translate(224.43 83.75) rotate(-24.68)">E</text><text class="cls-2" transform="translate(242.17 75.55) rotate(-20.06)">R</text><text class="cls-2" transform="translate(261.58 68.42) rotate(-15.57)">A</text><text class="cls-2" transform="matrix(0.98, -0.21, 0.21, 0.98, 280.91, 63.02)">T</text><text class="cls-2" transform="translate(299.31 59.27) rotate(-9.19)">I</text><text class="cls-2" transform="translate(307.78 57.69) rotate(-6.13)">O</text><text class="cls-2" transform="translate(330.79 55.19) rotate(-1.71)">N</text><text class="cls-2" transform="translate(354.48 54.69) rotate(1.22)"> </text><text class="cls-2" transform="matrix(1, 0.07, -0.07, 1, 361.36, 54.65)">1</text><text class="cls-2" transform="matrix(0.83, -0.56, 0.56, 0.83, 523.09, 110.97)">I</text><text class="cls-2" transform="matrix(0.86, -0.51, 0.51, 0.86, 530.09, 106.07)">T</text><text class="cls-2" transform="matrix(0.9, -0.43, 0.43, 0.9, 546.11, 96.65)">E</text><text class="cls-2" transform="translate(563.72 88.15) rotate(-21.04)">R</text><text class="cls-2" transform="translate(582.99 80.69) rotate(-16.56)">A</text><text class="cls-2" transform="translate(602.24 74.95) rotate(-12.84)">T</text><text class="cls-2" transform="translate(620.56 70.89) rotate(-10.17)">I</text><text class="cls-2" transform="translate(629 69.17) rotate(-7.12)">O</text><text class="cls-2" transform="translate(651.97 66.28) rotate(-2.7)">N</text><text class="cls-2" transform="translate(675.65 65.37) rotate(0.24)"> </text><text class="cls-2" transform="matrix(1, 0.05, -0.05, 1, 682.53, 65.21)">2</text><text class="cls-2" transform="matrix(0.82, -0.57, 0.57, 0.82, 840.8, 106.73)">I</text><text class="cls-2" transform="matrix(0.85, -0.52, 0.52, 0.85, 847.7, 101.68)">T</text><text class="cls-2" transform="matrix(0.89, -0.45, 0.45, 0.89, 863.52, 91.94)">E</text><text class="cls-2" transform="translate(880.94 83.07) rotate(-22.23)">R</text><text class="cls-2" transform="translate(900.06 75.21) rotate(-17.74)">A</text><text class="cls-2" transform="matrix(0.97, -0.24, 0.24, 0.97, 919.18, 69.08)">T</text><text class="cls-2" transform="translate(937.42 64.63) rotate(-11.36)">I</text><text class="cls-2" transform="translate(945.82 62.74) rotate(-8.31)">O</text><text class="cls-2" transform="translate(968.72 59.37) rotate(-3.89)">N</text><text class="cls-2" transform="translate(992.38 57.97) rotate(-0.95)"> </text><text class="cls-2" transform="translate(999.26 57.67) rotate(1.83)">3</text><g class="cls-3"><path class="cls-4" d="M666.33,81.79H665.2c-55.15.29-106.47,21.57-147.7,53.44,41.5,38.48,69.56,88.54,74.34,138.67,7,73.37-37,135.9-98.27,191.24,39.82,44.95,95.17,89.13,164,129.87,2.84-1.75,4.49-2.3,7.67-4.47,57.41-39.07,119.43-81.27,166.74-128.75-60.2-63.05-90-128.14-83.67-187.89,4.88-46,31.94-95.64,72.75-134.9-43-34.64-97.53-57.21-154.69-57.21M657.53,595l-1.08.69,2.85.36-1.77-1"/><path class="cls-5" d="M348.49,65.64h-1.13C220.6,66.3,114,177.94,103.84,273.9c-10.42,98.15,76.74,210.73,235.84,305,2.85-1.76,4.5-2.3,7.68-4.47,49.43-33.64,102.28-69.6,146.21-109.25-52.28-59-77.8-119.37-71.89-175.09,5.75-54.21,42.28-113.43,95.82-154.82-44.81-41.55-105.29-69.59-169-69.59m-8.81,513.22c-.34.21-.7.44-1.07.69l2.85.36-1.78-1"/><path class="cls-6" d="M517.5,135.23C464,176.62,427.43,235.84,421.68,290.05c-5.91,55.72,19.61,116.07,71.89,175.09,61.31-55.34,105.26-117.86,98.27-191.24C587.06,223.77,559,173.71,517.5,135.23"/><path class="cls-7" d="M992.92,65.64h-1.13C925.82,66,865.32,96.39,821,139c49.29,39.73,83.35,95.35,88.66,151.05,6.18,64.89-27.47,121.29-77.74,171.74,38.68,40.52,89.93,80.21,152.18,117.07,2.84-1.76,4.49-2.3,7.67-4.47,118.42-80.59,256.48-174.54,244.48-300.49-9.94-104.27-120.63-208.26-243.35-208.26m-8.8,513.22-1.08.69,2.85.36-1.77-1"/><path class="cls-8" d="M821,139c-40.81,39.26-67.86,88.88-72.75,134.9-6.34,59.75,23.47,124.84,83.67,187.89,50.27-50.45,83.92-106.85,77.74-171.74-5.31-55.7-39.37-111.32-88.66-151"/></g><g class="cls-9"><path class="cls-10" d="M26.46,10S9.67,10,9.67,25.21v682.1s0,15.26,16.79,15.26H1295.54s16.79,0,16.79-15.26V25.21s0-15.26-16.79-15.26Z"/></g></g><g id="Layer_1" data-name="Layer 1"><path class="cls-11" d="M164.36,648.19l22.11,7.28a3.71,3.71,0,0,1,2.36,4.68l-7.28,22.1"/><path class="cls-11" d="M540.56,394.46l22.56-5.72a3.72,3.72,0,0,1,4.51,2.68L573.35,414"/><path class="cls-11" d="M17.5,710.5c78.62-16.92,199.28-52.61,325-135,124-81.26,268.57-176,256-303-10.44-105.47-127-210.64-256-210-132.73.66-238.54,114.05-255,210-29,169,291.33,347.22,395,392.4,6,2.6,8,1.6,13.76-.6,64.55-24.57,126-48.19,171.22-77.8,124-81.26,268.57-176,256-303-10.44-105.47-127-210.64-256-210-132.73.66-244.34,113.24-255,210C398.4,411.41,543.14,558.74,812.33,663.88a23.45,23.45,0,0,0,5,1.34,11.92,11.92,0,0,0,6.35-.83c17.2-7.14,112.4-47.22,166.83-82.89,124-81.26,268.57-176,256-303-10.44-105.47-127-210.64-256-210-132.73.66-244.34,113.24-255,210-16.68,151.37,205.63,336.76,571,438"/><path class="cls-11" d="M1165.57,424.69l23.22-1.6a3.7,3.7,0,0,1,4,3.44l1.6,23.22"/><path class="cls-11" d="M865.25,401.39l22.89-4.2a3.7,3.7,0,0,1,4.31,3l4.21,22.89"/><path class="cls-11" d="M1149.28,640.87l3.47,23a3.7,3.7,0,0,1-3.11,4.21l-23,3.47"/><path class="cls-11" d="M71.2,253l13.17,19.19a3.7,3.7,0,0,0,5.15,1l19.19-13.16"/><path class="cls-11" d="M394.94,257l15.12,17.7a3.71,3.71,0,0,0,5.22.41L433,259.94"/><path class="cls-11" d="M718,257.76l14.95,17.85a3.71,3.71,0,0,0,5.22.46L756,261.13"/><path class="cls-11" d="M573.36,614.19l22.11,7.28a3.71,3.71,0,0,1,2.36,4.68l-7.28,22.1"/><path class="cls-11" d="M406.86,603.32l2.59,23.13a3.7,3.7,0,0,1-3.27,4.09l-23.13,2.59"/><path class="cls-11" d="M897.36,610.19l22.11,7.28a3.71,3.71,0,0,1,2.36,4.68l-7.28,22.1"/><path class="cls-11" d="M749.86,614.32l2.59,23.13a3.7,3.7,0,0,1-3.27,4.09l-23.13,2.59"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1326 735" style="enable-background:new 0 0 1326 735;" xml:space="preserve">
+<style type="text/css">
+	.st0{font-family:'CooperHewitt-Medium';}
+	.st1{font-size:35.9496px;}
+	.st2{font-size:36px;}
+	.st3{font-size:36.0809px;}
+	.st4{font-size:36.0881px;}
+	.st5{font-size:36.045px;}
+	.st6{font-size:35.9946px;}
+	.st7{font-size:35.9081px;}
+	.st8{font-size:35.9514px;}
+	.st9{font-size:35.872px;}
+	.st10{font-size:35.9027px;}
+	.st11{font-size:35.973px;}
+	.st12{clip-path:url(#SVGID_2_);}
+	.st13{fill:#00C2E5;}
+	.st14{fill:#F26624;}
+	.st15{fill:#0091CF;}
+	.st16{fill:#0D8742;}
+	.st17{fill:#00663B;}
+	.st18{fill:none;stroke:#FAA61C;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+</style>
+<title>iteration-iterative_loops</title>
+<g id="Layer_2_1_">
+	<text transform="matrix(0.8412 -0.5408 0.5408 0.8412 201.1595 97.6704)" class="st0 st1">I</text>
+	<text transform="matrix(0.8716 -0.4903 0.4903 0.8716 208.24 92.8902)" class="st0 st2">T</text>
+	<text transform="matrix(0.9087 -0.4175 0.4175 0.9087 224.4299 83.75)" class="st0 st2">E</text>
+	<text transform="matrix(0.9393 -0.343 0.343 0.9393 242.1701 75.5501)" class="st0 st2">R</text>
+	<text transform="matrix(0.9633 -0.2684 0.2684 0.9633 261.58 68.42)" class="st0 st2">A</text>
+	<text transform="matrix(0.9778 -0.2095 0.2095 0.9778 280.9095 63.0194)" class="st0 st3">T</text>
+	<text transform="matrix(0.9872 -0.1597 0.1597 0.9872 299.31 59.27)" class="st0 st2">I</text>
+	<text transform="matrix(0.9943 -0.1068 0.1068 0.9943 307.78 57.69)" class="st0 st2">O</text>
+	<text transform="matrix(0.9996 -2.984070e-02 2.984070e-02 0.9996 330.79 55.19)" class="st0 st2">N</text>
+	<text transform="matrix(0.9976 6.982913e-02 -6.982913e-02 0.9976 361.3599 54.6504)" class="st0 st4">1</text>
+	<text transform="matrix(0.829 -0.5593 0.5593 0.829 523.0903 110.9697)" class="st0 st5">I</text>
+	<text transform="matrix(0.8601 -0.5101 0.5101 0.8601 530.0906 106.0705)" class="st0 st6">T</text>
+	<text transform="matrix(0.9023 -0.4311 0.4311 0.9023 546.1101 96.6501)" class="st0 st7">E</text>
+	<text transform="matrix(0.9333 -0.359 0.359 0.9333 563.72 88.1499)" class="st0 st2">R</text>
+	<text transform="matrix(0.9585 -0.285 0.285 0.9585 582.99 80.69)" class="st0 st2">A</text>
+	<text transform="matrix(0.975 -0.2222 0.2222 0.975 602.24 74.9501)" class="st0 st2">T</text>
+	<text transform="matrix(0.9843 -0.1766 0.1766 0.9843 620.56 70.89)" class="st0 st2">I</text>
+	<text transform="matrix(0.9923 -0.1239 0.1239 0.9923 629 69.17)" class="st0 st2">O</text>
+	<text transform="matrix(0.9989 -4.710645e-02 4.710645e-02 0.9989 651.97 66.28)" class="st0 st2">N</text>
+	<text transform="matrix(0.9988 4.993762e-02 -4.993762e-02 0.9988 682.5305 65.21)" class="st0 st5">2</text>
+	<text transform="matrix(0.8211 -0.5708 0.5708 0.8211 840.7994 106.7297)" class="st0 st8">I</text>
+	<text transform="matrix(0.853 -0.5219 0.5219 0.853 847.7006 101.6799)" class="st0 st9">T</text>
+	<text transform="matrix(0.8924 -0.4512 0.4512 0.8924 863.5196 91.9397)" class="st0 st10">E</text>
+	<text transform="matrix(0.9257 -0.3783 0.3783 0.9257 880.9401 83.0699)" class="st0 st2">R</text>
+	<text transform="matrix(0.9524 -0.3047 0.3047 0.9524 900.06 75.2101)" class="st0 st2">A</text>
+	<text transform="matrix(0.9707 -0.2402 0.2402 0.9707 919.1805 69.0803)" class="st0 st11">T</text>
+	<text transform="matrix(0.9804 -0.197 0.197 0.9804 937.42 64.63)" class="st0 st2">I</text>
+	<text transform="matrix(0.9895 -0.1445 0.1445 0.9895 945.82 62.74)" class="st0 st2">O</text>
+	<text transform="matrix(0.9977 -6.784116e-02 6.784116e-02 0.9977 968.72 59.37)" class="st0 st2">N</text>
+	<text transform="matrix(0.9995 3.193410e-02 -3.193410e-02 0.9995 999.2599 57.6699)" class="st0 st2">3</text>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="103" y="65.6" width="1134" height="530.4"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st12">
+			<path class="st13" d="M666.3,81.8h-1.1c-55.2,0.3-106.5,21.6-147.7,53.4c41.5,38.5,69.6,88.5,74.3,138.7
+				c7,73.4-37,135.9-98.3,191.2c39.8,45,95.2,89.1,164,129.9c2.8-1.8,4.5-2.3,7.7-4.5c57.4-39.1,119.4-81.3,166.7-128.8
+				c-60.2-63-90-128.1-83.7-187.9c4.9-46,31.9-95.6,72.8-134.9C778.1,104.4,723.5,81.8,666.3,81.8 M657.5,595l-1.1,0.7l2.8,0.4
+				L657.5,595"/>
+			<path class="st14" d="M348.5,65.6h-1.1C220.6,66.3,114,177.9,103.8,273.9c-10.4,98.1,76.7,210.7,235.8,305
+				c2.9-1.8,4.5-2.3,7.7-4.5c49.4-33.6,102.3-69.6,146.2-109.2c-52.3-59-77.8-119.4-71.9-175.1c5.8-54.2,42.3-113.4,95.8-154.8
+				C472.7,93.7,412.2,65.7,348.5,65.6 M339.7,578.9c-0.3,0.2-0.7,0.4-1.1,0.7l2.9,0.4L339.7,578.9"/>
+			<path class="st15" d="M517.5,135.2C464,176.6,427.4,235.8,421.7,290c-5.9,55.7,19.6,116.1,71.9,175.1
+				c61.3-55.3,105.3-117.9,98.3-191.2C587.1,223.8,559,173.7,517.5,135.2"/>
+			<path class="st16" d="M992.9,65.6h-1.1C925.8,66,865.3,96.4,821,139c49.3,39.7,83.3,95.4,88.7,151
+				c6.2,64.9-27.5,121.3-77.7,171.7c38.7,40.5,89.9,80.2,152.2,117.1c2.8-1.8,4.5-2.3,7.7-4.5c118.4-80.6,256.5-174.5,244.5-300.5
+				C1226.3,169.6,1115.6,65.6,992.9,65.6 M984.1,578.9l-1.1,0.7l2.8,0.4L984.1,578.9"/>
+			<path class="st17" d="M821,139c-40.8,39.3-67.9,88.9-72.8,134.9c-6.3,59.8,23.5,124.8,83.7,187.9
+				c50.3-50.5,83.9-106.9,77.7-171.7C904.3,234.3,870.3,178.7,821,139"/>
+		</g>
+	</g>
+</g>
+<g id="Layer_1_1_">
+	<path class="st18" d="M164.4,648.2l22.1,7.3c1.9,0.6,3,2.7,2.4,4.7l-7.3,22.1"/>
+	<path class="st18" d="M540.6,394.5l22.6-5.7c2-0.5,4,0.7,4.5,2.7l5.7,22.6"/>
+	<path class="st18" d="M17.5,710.5c78.6-16.9,199.3-52.6,325-135c124-81.3,268.6-176,256-303c-10.4-105.5-127-210.6-256-210
+		c-132.7,0.7-238.5,114.1-255,210c-29,169,291.3,347.2,395,392.4c6,2.6,8,1.6,13.8-0.6c64.5-24.6,126-48.2,171.2-77.8
+		c124-81.3,268.6-176,256-303c-10.4-105.5-127-210.6-256-210c-132.7,0.7-244.3,113.2-255,210c-14.1,127.9,130.7,275.2,399.9,380.4
+		c1.6,0.6,3.3,1.1,5,1.3c2.2,0.3,4.3,0,6.3-0.8c17.2-7.1,112.4-47.2,166.8-82.9c124-81.3,268.6-176,256-303
+		c-10.4-105.5-127-210.6-256-210c-132.7,0.7-244.3,113.2-255,210c-16.7,151.4,205.6,336.8,571,438"/>
+	<path class="st18" d="M1165.6,424.7l23.2-1.6c2-0.2,3.8,1.3,4,3.4c0,0,0,0,0,0.1l1.6,23.2"/>
+	<path class="st18" d="M865.2,401.4l22.9-4.2c2-0.4,3.9,1,4.3,3c0,0,0,0,0,0l4.2,22.9"/>
+	<path class="st18" d="M1149.3,640.9l3.5,23c0.3,2-1.1,3.9-3.1,4.2c0,0,0,0,0,0l-23,3.5"/>
+	<path class="st18" d="M71.2,253l13.2,19.2c1.1,1.7,3.4,2.1,5.1,1c0,0,0,0,0,0l19.2-13.2"/>
+	<path class="st18" d="M394.9,257l15.1,17.7c1.3,1.6,3.7,1.7,5.2,0.4l17.7-15.2"/>
+	<path class="st18" d="M718,257.8l15,17.9c1.3,1.6,3.7,1.8,5.2,0.5l17.8-14.9"/>
+	<path class="st18" d="M573.4,614.2l22.1,7.3c1.9,0.6,3,2.7,2.4,4.7l-7.3,22.1"/>
+	<path class="st18" d="M406.9,603.3l2.6,23.1c0.2,2-1.2,3.9-3.3,4.1c0,0,0,0,0,0l-23.1,2.6"/>
+	<path class="st18" d="M897.4,610.2l22.1,7.3c1.9,0.6,3,2.7,2.4,4.7l-7.3,22.1"/>
+	<path class="st18" d="M749.9,614.3l2.6,23.1c0.2,2-1.2,3.9-3.3,4.1c0,0,0,0,0,0l-23.1,2.6"/>
+</g>
+</svg>
