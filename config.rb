@@ -36,24 +36,6 @@ page '/*.txt', layout: false
 #     'Helping'
 #   end
 # end
-helpers do
-  def is_page_selected(page)
-    if current_page.url == page
-      return ' class="usa-current"'
-    end
-    case page
-    when '/designphase.html'
-      if current_page.url == "/team.html" || current_page.url == "/participants.html" || current_page.url == "/publicsector.html" || current_page.url == "/designchange.html"
-        return ' class="usa-current"'
-      end
-    when '/communicatingideas.html'
-      if current_page.url == "/envisioning.html" || current_page.url == "/ideation.html" || current_page.url == "/iteration.html" || current_page.url == "/feedback.html"
-        return ' class="usa-current"'
-      end
-    end
-    return ''
-  end
-end
 
 # Build-specific configuration
 # https://middlemanapp.com/advanced/configuration/#environment-specific-settings
