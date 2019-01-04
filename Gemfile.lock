@@ -25,10 +25,14 @@ GEM
       http_parser.rb (~> 0.6.0)
     erubis (2.7.0)
     eventmachine (1.2.7)
+    eventmachine (1.2.7-java)
+    eventmachine (1.2.7-x86-mingw32)
     execjs (2.7.0)
     fast_blank (1.0.0)
     fastimage (2.1.5)
     ffi (1.9.25)
+    ffi (1.9.25-java)
+    ffi (1.9.25-x86-mingw32)
     haml (5.0.4)
       temple (>= 0.8.0)
       tilt
@@ -36,6 +40,7 @@ GEM
       concurrent-ruby (~> 1.0)
     hashie (3.6.0)
     http_parser.rb (0.6.0)
+    http_parser.rb (0.6.0-java)
     i18n (0.7.0)
     kramdown (1.17.0)
     listen (3.0.8)
@@ -102,14 +107,21 @@ GEM
     temple (0.8.0)
     thor (0.20.3)
     thread_safe (0.3.6)
+    thread_safe (0.3.6-java)
     tilt (2.0.9)
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
+    tzinfo-data (1.2018.9)
+      tzinfo (>= 1.0.0)
     uglifier (3.2.0)
       execjs (>= 0.3.0, < 3)
+    wdm (0.1.1)
 
 PLATFORMS
+  java
   ruby
+  x86-mingw32
+  x86-mswin32
 
 DEPENDENCIES
   middleman (~> 4.2)
