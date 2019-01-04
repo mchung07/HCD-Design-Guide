@@ -26,7 +26,6 @@ h4 {
   color: #212121;
 }
 
-
 .guide-footnotes {
   font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, "Roboto", sans-serif;
   font-size: 14px;
@@ -58,8 +57,25 @@ h4 {
   margin-right: auto;
 }
 
+.circle {
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+  line-height: 32px;
+  border-radius: 50%;
+  background-color: #fee685;
+  text-align: center;
+}
+
 @media print {
-    header, footer, aside, form … {
-        display: none;
-    }
+  aside,
+  footer,
+  form …,
+  header {
+    display: none;
+  }
+
+.noprint {
+    display: none;
+  }
 }
