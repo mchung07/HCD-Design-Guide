@@ -41,7 +41,7 @@ h4 {
 
 .guide-blue-box {
   padding: 0 1.5rem;
-  margin-top: 0;
+  margin: 3rem;
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
   background: #e1f3f8;
@@ -78,4 +78,27 @@ h4 {
 .noprint {
     display: none;
   }
+}
+
+///////////////////image and text interaction styles////////////////
+
+
+.bubbles_right {
+  display: inline;
+  width: 30%;
+  float: right;
+  padding-left: 2.5%;
+  shape-outside: circle();
+}
+
+.bubbles_left {
+  display: inline;
+  width: 30%;
+  float: left;
+  padding-right: 2.5%;
+  shape-outside: circle();
+}
+
+.right_text {
+  text-align: right;
 }
